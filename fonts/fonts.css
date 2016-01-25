@@ -1,0 +1,31 @@
+@font-face{
+    font-family:Josefin_Sans;
+    font-style:normal;
+    font-weight:normal;
+    src: url(../fonts/Josefin_Sans/JosefinSans-Bold.ttf);
+}
+@font-face{
+    font-family:JosefinSans-Light;
+    font-style:normal;
+    font-weight:normal;
+    src: url(../fonts/Josefin_Sans/JosefinSans-Light.ttf);
+}
+@font-face{
+    font-family:JosefinSans-Regular;
+    font-style:normal;
+    font-weight:normal;
+    src: url(../fonts/Josefin_Sans/JosefinSans-Regular.ttf);
+}
+
+@font-face{
+    font-family:NotoSans-Bold;
+    font-style:normal;
+    font-weight:normal;
+    src: url(../fonts/NotoSans/NotoSans-Bold.ttf);
+}
+@font-face{
+    font-family:NotoSans-Regular;
+    font-style:normal;
+    font-weight:normal;
+    src: url(../fonts/NotoSans/NotoSans-Regular.ttf);
+}
